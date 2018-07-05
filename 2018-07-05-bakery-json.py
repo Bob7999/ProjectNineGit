@@ -6,7 +6,9 @@ bakery = {
     "cookies":{
         1:"biscotti",
         2:"christmas",
-        3:"sugar"
+        3:"sugar",
+        4:"creamcheese",
+        5:"almond"
     },
 
 
